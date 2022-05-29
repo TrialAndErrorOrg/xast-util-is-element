@@ -1,3 +1,4 @@
+/* eslint-disable */
 const config = {
   displayName: 'xast-util-is-element',
   preset: '../../../jest.preset.js',
